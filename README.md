@@ -18,10 +18,14 @@
 
 
 ### Build
+```c
 ./autobuild.sh
+```
 
 ### Run
+```c
 ./bin/ChatServer 127.0.0.1 6000
 
 ./bin/ChatClient 127.0.0.1 8000
+```
 
