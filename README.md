@@ -24,7 +24,7 @@
 
 ### Run
 ```c
-./bin/ChatServer 127.0.0.1 6000
+./bin/ChatServer 127.0.0.1 6000/6002
 
 ./bin/ChatClient 127.0.0.1 8000
 ```
