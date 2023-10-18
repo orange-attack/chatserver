@@ -7,12 +7,12 @@
 - 基于 redis 的发布-订阅设计消息队列，用于跨服务器的客户端通信；
 
 ### Envoirment
-OS：Ubuntu 20.04.6
-Complier: g++ 9.4.0
-C++ 11
-MySQL 8.0.34
-Nginx 1.21.2
-Redis
+- OS：Ubuntu 20.04.6
+- Complier: g++ 9.4.0
+- C++ 11
+- MySQL 8.0.34
+- Nginx 1.21.2
+- Redis 5.0.7
 本项目需要配置的环境较为复杂，请查看
 [项目环境配置教程](docs/项目环境配置教程.md)
 
