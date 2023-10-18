@@ -28,4 +28,5 @@
 
 ./bin/ChatClient 127.0.0.1 8000
 ```
-
+### Result
+![Alt text](./docs/pictures/Run.png)
